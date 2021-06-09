@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **DenizUgur/DenizUgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="hhttps://github.com/ryo-ma/github-profile-trophy">
+  <img height="200" align="center" src="https://github-profile-trophy.vercel.app/?username=DenizUgur&theme=onedark&column=7" />
+</a>
+<p align="center" width="100%">
+  <a href="https://git.io/streak-stats">
+    <img height="200" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=DenizUgur&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=DenizUgur&theme=radical" />
+  </a>
+</p>
