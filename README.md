@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <img width="100%" align="center" src="https://raw.githubusercontent.com/DenizUgur/DenizUgur/main/banner.png" />
 </a>
 <p align="center" width="100%">
-  <a href="https:/github.com/DenizUgur">
-    <img height="300" align="center" src="https://media1.tenor.com/images/4389ce4bd25873e58486fd7693d4c03c/tenor.gif?itemid=5942531" />
+  <a href="https://github.com/DenizUgur">
+    <img align="center" src="https://media1.tenor.com/images/4389ce4bd25873e58486fd7693d4c03c/tenor.gif?itemid=5942531" />
   </a>
 </p>
